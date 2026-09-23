@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="dino"
+config/name="Offline Dino"
 run/main_scene="uid://cydnjs4m5agwf"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
